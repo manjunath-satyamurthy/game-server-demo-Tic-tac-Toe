@@ -29,6 +29,7 @@ pip install -r app/requirements.txt
   
 #### step 6: Create users
 ```bash
+python app/manage.py migrate
 python app/manage.py createsuperuser
 ```
 >Follow the instructions to create user and repeat step 6 for multiple users
