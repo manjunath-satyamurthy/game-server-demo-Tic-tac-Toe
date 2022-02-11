@@ -17,7 +17,7 @@ redis==2.10.6
 requests==2.18.4
 requests-oauthlib==0.8.0
 six==1.11.0
-Twisted==17.9.0
+Twisted==22.1.0
 txaio==2.8.2
 typing==3.6.4
 urllib3==1.22
